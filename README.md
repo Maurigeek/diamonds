@@ -1,6 +1,5 @@
 # diamonds
-
-# Dessiner des diamants de différentes tailles 
+# Dessiner des diamants de différents tailles 
 
 
 
